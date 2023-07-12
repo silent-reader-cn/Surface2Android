@@ -23,7 +23,7 @@ Surface2Android 是一个可以让你在 Windows 11 平板电脑上方便地使�
 
 | ![image1](./readme/1.jpg) | ![image2](./readme/2.jpg) | ![image3](./readme/3.jpg) |
 | --- | --- | --- |
-| ![image4](./readme/4.jpg) | ![image5](./readme/5.jpg) | ![image6](./readme/6.png) |
+| ![image4](./readme/4.jpg) | ![image5](./readme/5.jpg) | ![image6](./readme/7.jpg) |
 
 
 ## 注意事项
@@ -34,6 +34,7 @@ Surface2Android 是一个可以让你在 Windows 11 平板电脑上方便地使�
 - 你可以通过三指上滑后关闭窗口来退出 Android 模式。
 - 对于部分散热能力不足的平板电脑，在使用过程中可能会出现卡顿，可以使用[ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/)协助解决，但该软件可能对你的设备造成损害，使用前请仔细阅读由ThrottleStop提供的用户须知。
 - 软件提供的Wifi热点仅供在外出无Wifi时使用，在MIUI系统中你可以在连接后点击**使用数据流量上网**以在使用平板模式时继续使用因特网。
+- 你可以在**快捷设置开发者图块**中打开无线调试，这将极大方便你未来使用 Android 模式的体验。
 
 ## 贡献
 

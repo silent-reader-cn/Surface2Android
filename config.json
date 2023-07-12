@@ -1,0 +1,15 @@
+{
+  "adbPath": "./scrcpy/adb.exe",
+  "scrcpyPath": "./scrcpy/scrcpy.exe",
+  "transmissionRate": 5,
+  "blockWindowsGestures": true,
+  "customDPI": 320,
+  "frequency": 2,
+  "maxFPS": 60,
+  "videoCodec": "h265",
+  "ssid": "surface2android",
+  "password": "s2a123456",
+  "adaptiveResolution": true,
+  "adaptiveRotation": false,
+  "disableAutoLock": true
+}

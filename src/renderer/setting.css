@@ -1,0 +1,82 @@
+/* 在你的 CSS 文件中添加以下样式 */
+
+/* 设置页面容器 */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* 设置文本输入框样式 */
+  .MuiTextField-root {
+    width: 100%;
+    margin-bottom: 16px;
+  }
+  
+  /* 设置开关按钮样式 */
+  .MuiSwitch-root {
+    margin-top: 8px;
+    margin-bottom: 16px;
+  }
+  
+  /* 设置选择器样式 */
+  .MuiSelect-root {
+    width: 100%;
+    margin-bottom: 16px;
+  }
+  
+  /* 设置提交按钮样式 */
+  .MuiButton-containedPrimary {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    margin-top: 16px;
+  }
+  
+  /* 设置错误提示样式 */
+  .MuiFormHelperText-root {
+    color: red;
+  }
+  
+  /* 设置表单字段标签样式 */
+  label.MuiInputLabel-root {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  /* 设置表单字段下划线样式 */
+  .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+    border-color: #ddd;
+  }
+  
+  /* 设置表单字段悬浮状态下划线样式 */
+  .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #555;
+  }
+  
+  /* 设置表单字段聚焦状态下划线样式 */
+  .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-input {
+    color: #555;
+  }
+  
+  /* 设置选择器下拉菜单样式 */
+  .MuiList-root {
+    background-color: #f1f1f1;
+  }
+  
+  /* 设置选择器下拉菜单项样式 */
+  .MuiMenuItem-root {
+    font-size: 14px;
+  }
+  
+  /* 设置提交按钮样式 */
+  .MuiButton-root {
+    background-color: #3f51b5;
+    color: #fff;
+    transition: background-color 0.3s ease;
+  }
+  
+  .MuiButton-root:hover {
+    background-color: #303f9f;
+  }
+  
